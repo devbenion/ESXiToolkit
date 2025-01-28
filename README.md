@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/img/logo.png" alt="ESXiToolkit Logo" width="200">
+  <img src="/imgs/logo.png" alt="ESXiToolkit Logo" width="200">
 </p>
 
 <h1 align="center">ESXiToolkit</h1>
